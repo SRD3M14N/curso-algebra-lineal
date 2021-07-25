@@ -36,8 +36,8 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 * Tema 6 - Espacios Vectoriales
 * Tema 7 - Aplicaciones Lineales
 * Tema 8 - Diagonalización de Endomorfismos
-* Tema 9 - Programación Lineal
-* Tema 10 - Cadenas de Markov
+* Tema 9 - Programación Lineal.
+* Tema 10 - Cadenas de Markov.
 
 
 ### El itinerario definitivo para convertirte en un experto en ML e IA
